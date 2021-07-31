@@ -13,7 +13,7 @@ const ServicesButtom = () => {
     <div className="flex flex-wrap -m-4 ">
       <div className="lg:w-1/3 sm:w-1/2 py-10 md:p-4">
         <div className="flex relative h-60">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="./services/servicesbottom/plant1.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
            
             
@@ -24,7 +24,7 @@ const ServicesButtom = () => {
       </div>
       <div className="lg:w-1/3 sm:w-1/2 py-10 h-50 md:p-4">
         <div className="flex relative h-60">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/601x361"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="./services/servicesbottom/plant2.jpeg"/>
           <div className="px-8 py-3 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
             
             
@@ -35,7 +35,7 @@ const ServicesButtom = () => {
       </div>
       <div className="lg:w-1/3 sm:w-1/2 py-10 h-50 md:p-4">
         <div className="flex relative h-60">
-          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="https://dummyimage.com/603x363"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-full object-cover object-center" src="./services/servicesbottom/plant3.jpg"/>
           <div className="px-8 py-10 relative z-10 w-full border-4 border-gray-200 bg-white opacity-0 hover:opacity-100">
            
             
