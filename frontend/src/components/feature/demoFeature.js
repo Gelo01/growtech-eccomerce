@@ -18,7 +18,7 @@ const DemoFeatures = () => {
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="./features/demo/demo.jpg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>
@@ -26,7 +26,7 @@ const DemoFeatures = () => {
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="./features/demo/demo2.jpg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>
@@ -34,7 +34,7 @@ const DemoFeatures = () => {
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="./features/demo/demo3.jpg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>
@@ -42,7 +42,7 @@ const DemoFeatures = () => {
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="./features/demo/demo4.jpg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>
@@ -50,7 +50,7 @@ const DemoFeatures = () => {
       </div>
       <div className="xl:w-1/3 md:w-1/2 p-4">
       <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="./features/demo/demo5.jpg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>

@@ -12,7 +12,7 @@
 <div className="flex flex-wrap -mx-3 overflow-hidden pt-10 pb-20">
       <div className="my-3 px-3 w-full overflow-hidden md:w-1/2 lg:w-1/3 h-60 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="./features/comingsoon/comingsoon.jpeg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>
@@ -20,7 +20,7 @@
       </div>
       <div className="my-3 px-3 w-full overflow-hidden md:w-1/2 h-60 lg:w-1/3 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover" src="./features/comingsoon/comingsoon2.jpeg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>
@@ -28,7 +28,7 @@
       </div>
       <div className="my-3 px-3 w-full overflow-hidden md:w-1/2 lg:w-1/3 h-60 p-4">
         <div className="flex relative">
-          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="https://dummyimage.com/600x360"/>
+          <img alt="gallery" className="absolute inset-0 w-full h-60 object-cover object-center" src="./features/comingsoon/comingsoon3.jpeg"/>
           <div className="px-8 py-10 relative  w-full border-4 border-gray-200 bg-white opacity-0 ">
            
           </div>

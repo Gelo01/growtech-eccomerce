@@ -8,18 +8,18 @@ const SeedingFeature = () => {
       
 </h1>
 </div>  
-<div className="flex flex-wrap -mx-4 -mb-10 text-center">
+<div className="flex flex-wrap -mx-4 mb-20 text-center">
       <div className="sm:w-1/2 mb-10 px-4">
-        <div className="rounded-lg h-64 overflow-hidden">
-          <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1201x501"/>
+        <div className="rounded-lg h-100 overflow-hidden">
+          <img alt="content" className="object-cover object-center h-full w-full" src="./features/seedling/seedling.jpg"/>
         </div>
        
         <p className="mt-6 mb-3 leading-relaxed text-base">5 Kinds of Lettuce</p>
        
       </div>
       <div className="sm:w-1/2 mb-10 px-4">
-        <div className="rounded-lg h-64 overflow-hidden">
-          <img alt="content" className="object-cover object-center h-full w-full" src="https://dummyimage.com/1202x502"/>
+        <div className="rounded-lg h-100 overflow-hidden">
+          <img alt="content" className="object-cover object-center h-full w-full" src="./features/seedling/seedling2.jpg"/>
         </div>
         
         <p className="mt-6 mb-3 leading-relaxed text-base">Strawberry Runner Production</p>
